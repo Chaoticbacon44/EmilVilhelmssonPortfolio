@@ -16,6 +16,7 @@ Game Projects
 Snow runner:
 description: endless runner game, where several players race to see who gets the furthest, but be aware that there are things that will slow you down and mess with you
 I worked on adding some of the surfaces that slow down and mess with the player plus i helped program some of the movement in the player. i also helped create the base for all the maps
+
 https://uzerox.itch.io/snow-runner
 
 
