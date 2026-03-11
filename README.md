@@ -14,8 +14,14 @@ Other Tools: Git, perforce, visual studia, jira
 Game Projects
 
 Snow runner:
+<img width="1010" height="672" alt="snow" src="https://github.com/user-attachments/assets/05cf5761-94a7-49c7-84b1-502034e20d9e" />
 description: endless runner game, where several players race to see who gets the furthest, but be aware that there are things that will slow you down and mess with you
 I worked on adding some of the surfaces that slow down and mess with the player plus i helped program some of the movement in the player. i also helped create the base for all the maps
+
+Made in C# and in unity
+we were 7 people creating it and we had 3 weeks to create the game
+
+
 
 https://uzerox.itch.io/snow-runner
 
@@ -24,4 +30,7 @@ https://uzerox.itch.io/snow-runner
 
 Echo blade:
 Description: Stealth game: a game where you use stealth to sneak past enemies and try to get a blade that was stolen. 
+Made in unity
+Code in C#
 I worked on gameplay and the AI in the game. worked on the basics for making the AI patrol around a place and worked on fixing up some minor mistakes in the code
+yet to be released on itch
