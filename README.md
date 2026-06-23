@@ -42,10 +42,12 @@ yet to be released on itch
 NightWatch:
 Description: you are a person working at a lighthouse, and strange things sometimes happen here
 Horror game
+
 made in unreal engine
 Code in angelscript, which is kinda like c++ in unreal engine, but does not chrash the engine as much
 We had 7 weeks to create a game and we were 5 people
 I was a generalist and did a bit of everything
+
 Just ignore that we forgot to change the name in the main meny of the game, it is supposed to say nightwatch
 <img width="1907" height="1058" alt="Nightwatch" src="https://github.com/user-attachments/assets/20d3541b-e6f3-4fd9-b20f-352df7266489" />
 
