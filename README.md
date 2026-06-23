@@ -32,6 +32,7 @@ Echo blade:
 Description: Stealth game: a game where you use stealth to sneak past enemies and try to get a blade that was stolen. 
 Made in unity
 Code in C#
+
 We had 4 weeks to create a game, and we were 11 people working on it
 I worked on gameplay and the AI in the game. worked on the basics for making the AI patrol around a place and worked on fixing up some minor mistakes in the code
 yet to be released on itch
